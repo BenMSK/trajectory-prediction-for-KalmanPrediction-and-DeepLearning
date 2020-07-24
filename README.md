@@ -35,5 +35,5 @@ Each line in the file contains (frame_id, object_id, object_type, position_x, po
 * https://arxiv.org/pdf/1908.11472.pdf  
 
 
-**Please ask a [Assistant](mailto:msk930512@snu.ac.kr "email address") if you have any questions.**
+**Please contact me (msk930512@snu.ac.kr) if you have any questions.**
 
