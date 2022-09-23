@@ -1,5 +1,5 @@
 # trajectory-prediction-for-KalmanPrediction-and-DeepLearning
-There is no further plan for developing some projects from this repository, however, for studying the trajectory prediction research, this working code will be a good start.  
+There is no further plan for developing some projects from this repository, however, for studying the trajectory prediction research, this working code would be a good start.  
 
 ## Requirements:
 * Python 3.x (I confirm that the scripts run in Python 3.5.3)
