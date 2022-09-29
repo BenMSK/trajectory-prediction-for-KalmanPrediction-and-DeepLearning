@@ -6,7 +6,7 @@ There is no further plan for developing some projects from this repository, howe
 * pytorch
 * matplotlib (for visualizing results)
 
-## Descrition: 
+## Description: 
 This repository is for studying a trajectory prediction using Kalman filter and deep learning models. 
 There are some confused parts on the script, but this code will be a good start for the trajectory prediction study.
 Curretly, below **models** are implemented for trajectory-prediction.  
@@ -22,7 +22,7 @@ Each line in the file contains (frame_id, object_id, object_type, position_x, po
 * [**Lyft**](https://self-driving.lyft.com/level5/data/)  
 : Lyft data is collected under various urban conditions for 1000 hours driving. The dataset has 'zarr' format. For preprocessing data on your shoes, please check [this repository](https://github.com/zarr-developers/zarr-python).  
 
-## futher detail of this repo.
+## Further Details of This Repository.
 * **main.py**: main fuction for running whole scripts. You can change hyper-parameters, dataset and a model.
 * **model.py**: Training or testing a model
 * **kalman_model.py**: a basic kalman filter model for trajectory prediction. It uses the prediction only. However, as the prediction step is on-going, the covariance is getting larger as the kalman filter does. As a result, you can sample the trajectory prediction results from Kalman model.
